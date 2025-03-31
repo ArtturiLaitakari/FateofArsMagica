@@ -1,108 +1,131 @@
-# Vampyyrimookit  
+# **Vampire Mooks**
 
-**Nopeat & verenhimoiset**  
-- **Nopeasti +2, Vahvasti +1**  
-- **Stressi:** 2pi osuma pudottaa yhden.  
-- **Lauman voima:** 2 mookkia +1, 4 mook +2.
-- **Veripool**: OOOOO, +2 hyökkäys per veripool
+**Fast & Bloodthirsty**
 
-# Vampyyrisotilas (Accelerated)
+- **Quickly +2, Strongly +1**
+- **Stress:** A 2-point hit takes one down.
+- **Pack Power:** 2 mooks +1, 4 mooks +2.
+- **Blood Pool:** OOOOO, +2 attack per blood pool.
 
-## Aspektit
-- **Nopea ja brutaali**
-- **Verenhimoiset petoeläimet**
-- **Kun yksi kaatuu, muut raivostuvat**
+------
 
-## Lähestymistavat (Approaches)
-- **Nopeasti:** +2  
-- **Vahvasti:** +2  
-- **Ovelasti:** +1  
-- **Tarkasti:** +1  
-- **muut** 0
+# **Vampire Soldier (Accelerated)**
 
-## Stressi & Seuraukset
-- **veripool (Hunger) OOOOO**  
-- Veripisteellä +2 taisteluun
-  - Jokaisesta **2 stressipisteen vahingosta yksi vampyyri putoaa taistelusta.**  
-  - Seuraukset: *"Hallinnan menettäminen"*.  
+## **Aspects**
 
-## Stuntit
-- **Verenjano:** Kun käytät **veripisteen**, saat +2 hyökkäykseen, jos toimit nopeasti tai vahvasti.  
-- **Lauman voima:**  (max +4) 
-- 2: +1
-- 4: +2
-- **Varjojen peto:** Vampyyrit voivat liikkua **lähes äänettömästi** ja **katoutua hetkeksi varjoihin**, jos eivät ole suoraan päivänvalossa tai pyhällä maalla.  
+- **Fast and Brutal**
+- **Bloodthirsty Predators**
+- **When One Falls, the Rest Go Berserk**
 
-## Erikoissäännöt
-- Vampyyrit ovat erittäin nopeita ja pystyvät tekemään **nopeita ryhmähyökkäyksiä**.  
-- Vain **hopea-aseet tai pyhitetty tuli** voivat tappaa heidät lopullisesti.  
-- Vampyyrit **pelkäävät pyhiä symboleja**, mutta eivät aina pysähdy niiden edessä.
+## **Approaches**
 
+- **Quickly:** +2
+- **Strongly:** +2
+- **Cleverly:** +1
+- **Precisely:** +1
+- **Others:** 0
 
+## **Stress & Consequences**
 
-# GHOUL
+- **Blood Pool (Hunger) OOOOO**
+- Spending a **blood point** gives +2 to combat.
+  - Every **2 stress points of damage** remove one vampire from the fight.
+  - Consequence: *"Losing Control"*.
 
-## ASPECTS
+## **Stunts**
+
+- **Bloodthirst:** When you spend a **blood point**, gain +2 to attack if acting quickly or strongly.
+- **Pack Power:** (max +4)
+  - 2 vampires: +1
+  - 4 vampires: +2
+- **Beast of Shadows:** Vampires can move **almost silently** and **disappear into shadows for a moment**, as long as they are not in direct sunlight or on holy ground.
+
+## **Special Rules**
+
+- Vampires are **extremely fast** and capable of **rapid group attacks**.
+- Only **silver weapons or consecrated fire** can kill them permanently.
+- Vampires **fear holy symbols**, but they won’t always stop at their sight.
+
+------
+
+# **Ghoul**
+
+## **Aspects**
 
 - **High Concept:** Deadly Humanoid Carnivore
 - **Other Aspects:** More Hungry Than You Could Know
-- **Scale**, supernatural
+- **Scale:** Supernatural
 
-## APPROACHES
+## **Approaches**
 
 - **Good (+2) at:** Brawling, Feats of Strength
 - **Bad (-2) at:** Being Patient, Thinking Clearly
 - **Good at Opposing (+2):** Focus, Force
 
-## STRESS & CONDITIONS
+## **Stress & Conditions**
 
-- **Stress:** [ ] [ ] [ ]  [ ] [ ] [ ] 
-
+- **Stress:** [ ] [ ] [ ]  [ ] [ ] [ ]
 - **In Peril (sticky):** [4] p.117.
+- **Sanctoburned (lasting):** [ ]
+  - If the ghoul takes damage from a sanctified weapon or touches a holy object, check this box.
+  - The ghoul **cannot recover conditions that represent physical injury**.
+- **Human Disguise (sticky):** [ ]
+  - A ghoul can appear passably human with effort.
+  - While in this form, it moves through mortal society with little attention.
+  - Anyone looking closely may sense something is "off."
+  - This condition resets when the ghoul reverts to its natural form, which happens automatically if it begins feeding.
+- **Need for Meat (sticky):** [ ] [ ] [ ]  [ ] [ ] [ ]
+  - Ghouls are always hungry and need large amounts of flesh, preferably human.
+  - This condition is marked as the ghoul exerts itself, per its stunts.
+  - If all boxes are checked, the ghoul **loses control**: it can only eat or seek food.
+  - To recover, the ghoul must eat **10 lbs of animal flesh or 5 lbs of human flesh per box**.
 
-- **Sanctoburned (lasting):** [ ]  
-  If the ghoul takes damage from a sanctified weapon or comes into contact with a holy object, check this box. The ghoul is unable to recover conditions that represent physical injury.
+## **Stunts**
 
-- **Human Disguise (sticky):** [ ]  
-  A ghoul is able to look passably human with some effort. Check this box when the ghoul takes on a human guise; while in this form, the ghoul can move through mortal society while attracting little attention. Anyone with cause to look closely at the ghoul may be able to recognize that something is “off.” This condition is recovered when the ghoul returns to their standard form, which is automatic if the ghoul begins to feed.
+- **Ghoulish Resilience:**
+  - The ghoul may check off a box of **Need for Meat** to recover its **In Peril** condition, even in combat, **if it represents a physical injury**.
+- **Driving Hunger:**
+  - The ghoul may check one or more **Need for Meat** boxes during any test of physical strength or endurance.
+  - It gains **+2 to the roll per box checked**.
 
-- **Need for Meat (sticky):** [ ] [ ] [ ]  [ ] [ ] [ ]  
-  Ghouls are constantly hungry and require lots of flesh, preferably human, to sate their hunger. This condition is marked as the ghoul exerts itself, as described in its stunts. If every box has been checked, the ghoul can no longer contain its hunger: the only actions it may take are eating or seeking out additional food. The ghoul recovers this condition by eating vast quantities of raw meat: approximately ten pounds of animal flesh or five pounds of human flesh recover one box.
+------
 
-## STUNTS
+# **Loup-Garou**
 
-- **Ghoulish Resilience:**  
-  The ghoul may check off a box of Need for Meat to recover its In Peril condition, even in combat, provided that the condition represents a physical injury.
+## **Aspects**
 
-- **Driving Hunger:**  
-  The ghoul may check off one or more boxes of Need for Meat during any activity representing physical strength or endurance. It gains +2 to the roll for every box checked.
+- **High Concept:** Rampaging Wolf-like Demon
+- **Other Aspects:** Fearsome Teeth and Mighty Claws
 
-# LOUP-GAROU
+## **Approaches**
 
-## ASPECTS
-- **High Concept:** Rampaging Wolf-like Demon  
-- **Other Aspects:** Fearsome Teeth and Mighty Claws  
+- **Good (+3):** Force
+- **Average (+1):** Focus, Guile
 
-## APPROACHES
-- **Good (+3):** Force  
-- **Average (+1):** Focus, Guile  
+## **Stress & Conditions**
 
-## STRESS & CONDITIONS  
-**Stress:** [ ] [ ] [ ]  [ ] [ ] [ ] 
+- **Stress:** [ ] [ ] [ ]  [ ] [ ] [ ]
+- **Physical Immunity (special):** [x]
+  - *This condition is always marked.*
+  - The Loup-Garou **takes no damage** and **cannot be removed from play** by any means **except inherited silver weapons**.
+  - Such weapons **damage it normally**.
+- **Bloodlust (special):** [x]
+  - *This condition is always marked.*
+  - The Loup-Garou **is compelled to kill** and **cannot resist its instincts**.
+  - If mortals are nearby, it can **choose a target** but **must attack**.
+- **Frenzied (sticky):** []
+  - *Marked if the Loup-Garou is attacked.*
+  - This absorbs all damage if the attack **bypasses its Physical Immunity**.
+  - The Loup-Garou becomes stronger but less controlled:
+    - Gains a new approach: **Rage (+4)**.
+    - Cannot prioritize targets rationally, attacking the **closest enemy** until it is dead or it can no longer fight.
+  - This condition resets **when no prey remains**.
 
-**Physical Immunity (special):** [x]  
-*Tämä ehto on aina merkitty.* Loup-garou ei ota vahinkoa eikä sitä voi poistaa pelistä muilla keinoilla kuin peritystä hopeasta taotuilla läpäisevillä aseilla, jotka vahingoittavat sitä normaalisti.  
+## **Stunts**
 
-**Bloodlust (special):** [x]  
-*Tämä ehto on aina merkitty.* Loup-garou on pakotettu tappamaan, ei voi vastustaa vaistojaan ja jahtaa aktiivisesti ihmisuhreja. Jos lähellä on kuolevaisia, se voi valita kohteensa, mutta sen on hyökättävä.  
+- **Out of Nowhere:**
+  - *Once per session*, the Loup-Garou can **break through a window or wall** and **join any encounter** happening under a full moon.
+  - The **Frenzied** condition is automatically marked.
 
-**Frenzied (sticky):** []  
-*Merkitään, jos loup-garou joutuu hyökkäyksen kohteeksi.* Tämä tila imee kaiken vahingon, jos hyökkäys läpäisee sen fyysisen immuniteetin.  
-- Loup-garou raivostuu ja muuttuu voimakkaammaksi mutta vähemmän hallittavaksi.  
-- Saa uuden lähestymistavan: **Rage (+4)**.  
-- Ei voi priorisoida kohteita järkevästi, hyökkää lähimpään kohteeseen ja jatkaa, kunnes uhri on kuollut tai se ei voi jatkaa.  
-- Tila palautuu, kun uhreja ei ole enää jäljellä.  
+------
 
-## STUNTS    
-**Out of Nowhere:**  
-*Kerran per peli-istunnon* loup-garou voi rikkoa ikkunan tai seinän ja liittyä mihin tahansa kohtaamiseen, joka tapahtuu täysikuun aikaan. **Frenzied** merkitään automaattisesti.  
