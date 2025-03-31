@@ -15,3 +15,4 @@ Ars Magica based on Fate Core and Accelerated
 - [Magic system.md](./Magic%20system.md) notes on magic system
 - [SpellGuidelines.md](./SpellGuidelines.md) help on spell building
 - [vampires.md](./vampires.md) some notes on vampires
+- [Characters:](./FateOfArsmagicaCharacters.pdf), Baron Giovanni, Nixette, Marco, Anders, Annabelle, Hu, Gaelan, Agmundr.
