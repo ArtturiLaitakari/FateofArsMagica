@@ -17,7 +17,7 @@
 | Fabled (+9)   | 45               |
 | Avatar (+10)  | 50               |
 
-[Magic system.md](Magic system.md)
+[Magic system.md](MagicSystem.md)
 
 | Range                | Duration                | Target                   |
 | -------------------- | ----------------------- | ------------------------ |
