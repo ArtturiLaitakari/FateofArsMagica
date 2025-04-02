@@ -119,25 +119,32 @@ When you try to get information from an animal, remember that its memories are g
 Animal cannot remember human words, but might remember tone of voice and such. You may not get the exact information you are looking for.
 To communicate with an animal, you must bring yourself to the animal's mental state – a process that might have strange, through temporary, effects on you.
 Additional ideas can be seen in Intellego Corpus and Intellego Mentem guidelines.
+
 **Abysmal (-3):** Get a mental image of an animal.
 -  Sense a supernatural creature of Might 50 or above with a Might associated with Animal.p.111
+
 **Terrible (-2):** Sense a supernatural creature of Might 40 or above with a Might associated with Animal.p.111
 -  Count the number of individuals in the spell Target. [TMRE p.93]
+
 **Poor (-1):** Sense the state of consciousness of a beast. Get general information about its body.
 -  Sense a supernatural creature of Might 30 or above with a Might associated with Animal.p.111
 -  Count the number of individuals in the spell Target, divided into apparent categories.[TMRE p.93]
+
 **Mediocre (+0):** Sense the dominant drive of a beast. Learn a specific fact about its body.
 -  Sense a supernatural creature of Might 15 or above with a Might associated with Animal.p.111
 -  Sort the individuals in the spell Target into categories and count them. [TMRE p.93]
+
 **Average (+1):** Learn the origin, age, and hystory of something made of animal products.
 -  Sense any supernatural creature with a Might associated with Animal. p.111
+
 **Fair (+2):** Speak with an animal.
 Read an animal surface thoughts.
+
 **Good (+3):** Read the recent memories of a beast.
+
 **Great (+4):** Throroughly probe the mind of a beast.
 
 ## Muto Animal (MuAn)
-
 Animal's granted new abilities, such as wings, need a few minutes to get used to them. When transforming things, you can transform things that they are carrying with appropriate requisite.
 Animal are not infinitely mutable, and using too many of these spells for too long on an animal can warp its natural constitution and even destroy it. Additional ideas can be seen in Muto Corpus guidelines.
 
@@ -893,7 +900,7 @@ The base Individual for Ignem is a large campfire or a fire in the hearth of a g
 
 ## Muto Ignem (MuIg)
 
-The intensity of a fire also affects the difficulty of changing it. For every 5 points by which the fire's damage exceeds +5 add one magnitude to the spell's level.
+The intensity of a fire also affects the difficulty of changing it. For every  point by which the fire's damage exceeds +1 add one magnitude to the spell's level.
 
 **General:** Convert part of an Ignem elemental’s body into another type of Ignem matter, reducing the elementals Might Pool by the level of the spell +10.
 If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter. p.133
