@@ -1,5 +1,7 @@
 # Magic system
 
+[SpellGuidelines.md](./SpellGuidelines.md)
+
 ## Spells
 
 Every spell, even when casting spontaneously, has a Level that can be called a Magnitude.
