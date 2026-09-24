@@ -14,5 +14,6 @@ Ars Magica based on Fate Core and Accelerated
 - [FateOfStoryteller.md](./FateOfStoryteller.md) Storyteller guide
 - [Magic system.md](./MagicSystem.md) notes on magic system
 - [SpellGuidelines.md](./SpellGuidelines.md) help on spell building
+- [VirtuesAndFlaws.md](./VirtuesAndFlaws.md) Virtues and Flaws converted to Fate
 - [vampires.md](./vampires.md) some notes on vampires
 - [Characters:](./FateOfArsmagicaCharacters.pdf), Baron Giovanni, Nixette, Marco, Anders, Annabelle, Hu, Gaelan, Agmundr.

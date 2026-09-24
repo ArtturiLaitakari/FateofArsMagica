@@ -66,11 +66,20 @@ Character gets:
 - travel (ride, sailing, Orienteering)
 - Stealth (sneak, hide)
 - Survival (area)
-- Will
+- Will (no sub-skills)
 
-Nearly any skill might have sub-skills.
+### How Sub-Skills Work
 
-For every skill level character gets a new sub-skill, of equal skill level.
+Every skill listed above has sub-skills, except **Will**. A sub-skill is a narrow specialty inside a broad skill — for example, **Ranged** or **Melee** inside **Fight**, or **Deception** or **Leadership** inside **Influence**.
+
+- **Number of sub-skills = the skill's numeric rating.** A skill at **Great (+4)** gives **4 sub-skills**, all rated **Great (+4)**. A skill at **Good (+3)** gives **3 sub-skills** at **Good (+3)**, and so on down to **Average (+1)**, which gives **1 sub-skill** at **Average (+1)**.
+- A **Mediocre (+0)** skill has no rating to spend, so it gets **no sub-skills**.
+- When you use a skill for something covered by one of its chosen sub-skills, roll at the **skill's full rating**.
+- When you use the same skill for something **not** covered by any chosen sub-skill, roll at **Mediocre (+0)**, no matter how high the base skill is.
+
+**Example:** *Fight* is Great (+4). The player chooses 4 sub-skills at Great: *Ranged*, *Light Weapons*, *Martial Weapons*, and *Firearms*. Fighting with a bow uses Great (+4). Fighting with a heavy weapon (not chosen) drops to Mediocre (+0), even though the base *Fight* skill is Great.
+
+**Sub-skills change with skill rating.** If a skill's rating rises or falls (through study, experience, or other effects), the number of sub-skills changes to match — gain a new sub-skill at the new rating when the skill improves, or lose one when it drops. Existing sub-skills keep the skill's current rating; they don't lag behind at an old level.
 
 ### Step 4: Magical Arts (or Stunts)
 
@@ -188,6 +197,17 @@ So divide Ars magica level by 5 to get Fate of Ars magica level. Level below fiv
 - If your result is **1 or 2 lower**, you **succeed**, but **lose a fatigue level**.  
 - If your result is **3 lower**, the **spell fails**, and you **lose a fatigue level**.
 
+### Targeting a Spell
+
+The roll above only tells you whether the spell **works** — whether you have enough power to produce the effect. It doesn't tell you whether the effect **lands**. That depends on whether anything is actually resisting you:
+
+- **Nothing is resisting** (the target is stationary, willing, an object, or an area effect no one is dodging) — this is a Fate **Overcome** action. The Formulaic/Spontaneous roll above *is* the whole check: if you clear the spell level, the spell just works.
+- **Something is actively resisting** (a hostile or startled creature, anyone in a fight, anything that gets to react) — this is a Fate **Attack** action instead. Roll the same casting total, opposed by the target's **Defend** roll (usually Athletics to dodge, sometimes Fight to parry a visible bolt). This is the "In Combat" roll already described under Magic Skill Usage above — it's the same roll, just against a defense instead of a fixed difficulty.
+
+If the spell's effect succeeds (clears its level) but the Attack roll loses to the target's Defend, the spell still goes off — it just misses. Fatigue is still spent as normal; the power was real, the aim wasn't.
+
+**Finesse** (a common Magic Theory sub-skill, alongside Parma Magica and Latin) doesn't change either roll above. Instead, use it to **Create an Advantage** before casting — lining up a called shot, threading a spell through a crowd, or hitting only the weapon and not its wielder. A Magic Theory (Finesse) roll made ahead of time earns a free invoke to spend on the Attack roll that follows.
+
 ### Spontaneous Magic
 
 A caster can choose **one of two casting methods**:  
@@ -200,21 +220,27 @@ A caster can choose **one of two casting methods**:
 
 ---
 
-### Fatiguing Spontaneous Magic
+### Casting Spontaneous Magic
 
-Formula:  
+Every spontaneous spell uses the same roll:
+
 `(Tech + Form) / 2 + 4DF`
 
----
+Formulaic spells never cost fatigue on a success (see above). Spontaneous spells are different: **casting one always costs a fatigue level, unless you pay for it another way.**
 
-### Non-Fatiguing Spontaneous Magic
+#### Fatiguing Spontaneous Magic
 
-Formula:  
-`(Tech + Form) / 2 + 4DF`
+- Cast in the current round, as your action.
+- You **lose a fatigue level**, whether the spell succeeds or fails.
 
-To **cast in one round**, the caster must:  
-- Spend a round to **create an advantage**, OR  
-- Spend a **fate point** to cast immediately.
+#### Non-Fatiguing Spontaneous Magic
+
+To cast the same spell **without losing a fatigue level**, pay one of these costs instead:
+
+- **Spend the round preparing** – take an action to **create an advantage**, then cast the spell fatigue-free next round, OR
+- **Spend a fate point** – cast the spell fatigue-free in the current round.
+
+Formulaic magic needs neither of these costs; the fatigue rule above applies only to spontaneous casting.
 
 ---
 
