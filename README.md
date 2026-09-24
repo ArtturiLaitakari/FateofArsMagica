@@ -7,6 +7,7 @@ Ars Magica based on Fate Core and Accelerated
 
 - [Fate of Ars Magica.md](./Fate%20of%20Ars%20Magica.md) the rules of the game
 - [DarkFateOfArsmagica.pdf](./DarkFateOfArsmagica.pdf) rules for liches and vampires, for GM or darker campaing
+- [DarkFateOfArsmagica.md](./DarkFateOfArsmagica.md) Markdown conversion of the above (Tremere Vampires template)
 - [Fate-Core-Cheat-Sheet-and-Vet-Guide.pdf](./Fate-Core-Cheat-Sheet-and-Vet-Guide.pdf) summary of fate
 - [fateMonsterManual.md](./fateMonsterManual.md)
 - [FateOfArsMagica1.0.pdf](./FateOfArsMagica1.0.pdf) previous version as pdf
