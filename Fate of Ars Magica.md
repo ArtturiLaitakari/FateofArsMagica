@@ -81,6 +81,8 @@ Every skill listed above has sub-skills. A sub-skill is a narrow specialty insid
 
 **Sub-skills change with skill rating.** If a skill's rating rises or falls (through study, experience, or other effects), the number of sub-skills changes to match — gain a new sub-skill at the new rating when the skill improves, or lose one when it drops. Existing sub-skills keep the skill's current rating; they don't lag behind at an old level.
 
+**Exception — Languages:** the Mediocre fallback only applies to **known languages** — ones the character has actually encountered (native tongue, chosen sub-skill languages, or a language established in play as one they've been around). An **unknown language** the character has never encountered isn't Mediocre, it's **no skill at all**: understanding or speaking it requires **magic**, an **interpreter**, or dedicated **study** to learn it as a new sub-skill.
+
 ### Step 4: Magical Arts (or Stunts)
 
 A companion can choose up to 3 stunts, but a magus must take the following:
