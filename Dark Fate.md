@@ -21,7 +21,7 @@ Dark Fate is a modern-day, GM-facing variant of the same ruleset as [Fate of Ars
 | Category     | Skill        | Sub-skill examples                                                |
 | ------------ | ------------ | ------------------------------------------------------------------ |
 | **Physical** | Alertness    | Perception, Listening, Tracking, Initiative                        |
-| **Physical** | Burglary     | Lock picking, Pocket picking, Disarm traps                         |
+| **Physical** | Burglary     | Lock picking, Cutpurse, Disarm traps                                |
 | **Physical** | Fight        | Light, Martial, Heavy weapons, Ranged                               |
 | **Physical** | Physique     | Brawling, Weight lifting, Athletics, Thrown                         |
 | **Physical** | Stealth      | Sneak, Hide                                                         |

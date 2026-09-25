@@ -52,7 +52,7 @@ Character gets:
 ### Skill List
 
 - Alertness
-- Burglary (Lock picking, Forgery, Pocket picking, Traps, Security)
+- Burglary (Lock picking, Forgery, Cutpurse, Traps, Security)
 - Contacts (Merchants, Nobility, Church, Underworld, Order of Hermes)
 - Fight (Light, Martial, Heavy, Bows, Thrown, Firearms)
 - Influence (Persuasion, Deception, Leadership, Negotiation, Intimidation)
