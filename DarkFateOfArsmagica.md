@@ -125,3 +125,106 @@ While you don't have the full benefits of the gift, you have nearly all the flaw
 ---
 
 <img src="./img/darkfate-vampire-backcover.png" alt="Vampire" width="300">
+
+# Werewolves
+
+## Werewolf
+
+An ordinary intelligent shapeshifter. Ally, hunter, or border guard.
+
+### High Concept
+
+**Wolf-Blooded Shapeshifter**
+
+### Trouble
+
+**The Beast Hears Every Challenge**
+
+### Core Stunts
+
+#### Wolf Form
+
+Because I can assume the form of a wolf, I gain +2 when I Quickly overcome obstacles involving tracking, pursuit, or wilderness travel.
+
+#### Predator's Senses
+
+Because my senses surpass those of mortals, I gain +2 when I Carefully create an advantage using smell, hearing, or tracking.
+
+#### Pack Hunter
+
+Because I fight as part of a pack, once per scene I may invoke an aspect created by an ally for free.
+
+### Mantles / Aspect Ideas
+
+- Guardian of the Forest Paths
+- Owes a Debt to Villa Parfume
+- Alpha of the Silver Hills Pack
+- Ancient Enemy of the Night Folk
+
+---
+
+## Loup-Garou
+
+Not a "civilized werewolf". A curse. A monster. Feared by all.
+
+### High Concept
+
+**Cursed Loup-Garou, Terror of Provence**
+
+### Trouble
+
+**The Beast Must Hunt**
+
+### Core Stunts
+
+#### Monstrous Strength
+
+Because I am a Loup-Garou, I gain +2 when I Forcefully attack in beast form.
+
+#### Almost Impossible to Kill
+
+Because ordinary weapons cannot truly stop me, once per scene I may ignore a physical consequence of Moderate severity or lower.
+
+#### Nightmare Predator
+
+Because mortal minds recoil from my presence, I gain +2 when I Forcefully create fear, panic, or intimidation.
+
+---
+
+### Unique Conditions
+
+#### The Beast Awakened
+
+Mark this condition when:
+
+- you see blood,
+- you are seriously injured,
+- the full moon rises,
+- someone invokes the old curse.
+
+Effect:
+
+- +2 on Forceful attacks.
+- Cannot use Careful actions.
+- The GM may compel violent or predatory behavior.
+
+Clears once the beast has calmed down.
+
+---
+
+### Campaign Notes
+
+**Werewolves**
+
+- can negotiate
+- can make agreements
+- can be allies of the Covenant
+- can guard a faerie regio
+
+**Loup-Garous**
+
+- do not belong to packs
+- are rare
+- vampires fear them
+- mages fear them
+- their appearance is always an adventure

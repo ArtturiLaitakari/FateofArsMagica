@@ -52,25 +52,25 @@ Character gets:
 ### Skill List
 
 - Alertness
-- Burglary (lock picking, pocket picking, traps)
-- Contacts
-- Fight (light , martial, heavy weapons, ranged, firearms)
+- Burglary (Lock picking, Forgery, Pocket picking, Traps, Security)
+- Contacts (Merchants, Nobility, Church, Underworld, Order of Hermes)
+- Fight (Light, Martial, Heavy, Bows, Thrown, Firearms)
 - Influence (Persuasion, Deception, Leadership, Negotiation, Intimidation)
-- Investigate (Deduction, Scrutiny, Research, Observation, Interrogation)
+- Investigate (Deduction, Scrutiny, Observation, Interrogation, Research)
 - Lore (1 lore per skill level: Church, Hermetic, Faerie, Infernal, Twilight)
 - Languages (1 per language)
-- Magic Theory (Parma Magica, Latin)
-- Medicine (first aid, surgery, herbal medicine, infectious)
-- Physique (brawling, Weight lifting, athletics)
+- Magic Theory (Parma Magica, Vis Lore, Finesse, Regio Lore, Hermetic Research)
+- Medicine (First aid, Surgery, Infectious, Herbal medicine)
+- Physique (Brawling, Athletics, Climbing, Endurance, Swimming)
 - Resources (useless to mages)
-- travel (ride, sailing, Orienteering)
-- Stealth (sneak, hide)
-- Survival (area)
-- Will (no sub-skills)
+- Travel (Ride, Sailing, Cartography, Navigating)
+- Stealth (Sneak, Hide, Disguise, Shadowing, Infiltration)
+- Survival (Foraging, Tracking, Way finding, Sheltercraft, Weathercraft)
+- Will (Resolve, Composure, Fortitude, Focus)
 
 ### How Sub-Skills Work
 
-Every skill listed above has sub-skills, except **Will**. A sub-skill is a narrow specialty inside a broad skill — for example, **Ranged** or **Melee** inside **Fight**, or **Deception** or **Leadership** inside **Influence**.
+Every skill listed above has sub-skills. A sub-skill is a narrow specialty inside a broad skill — for example, **Ranged** or **Melee** inside **Fight**, or **Deception** or **Leadership** inside **Influence**. **Will**'s sub-skills work the same way, covering mental combat the way Physique's cover physical combat: **Resolve** (resisting fear and coercion), **Composure** (holding up under interrogation or social pressure), **Fortitude** (enduring despair, pain, or exhaustion), and **Focus** (staying steady against magical or mental disruption).
 
 - **Number of sub-skills = the skill's numeric rating.** A skill at **Great (+4)** gives **4 sub-skills**, all rated **Great (+4)**. A skill at **Good (+3)** gives **3 sub-skills** at **Good (+3)**, and so on down to **Average (+1)**, which gives **1 sub-skill** at **Average (+1)**.
 - A **Mediocre (+0)** skill has no rating to spend, so it gets **no sub-skills**.
@@ -272,8 +272,12 @@ Formulaic magic needs neither of these costs; the fatigue rule above applies onl
 
 ## Stress and Consequences
 
+A character sheet has **four stress tracks**:
+
 - **Physique** determines **physical stress** and **consequences**.  
 - **Will** determines **mental stress** and **consequences**.  
+- **Magic Theory** determines **paradox stress** and **consequences**.  
+- **Resources** determines **indebted stress** and **consequences**.  
 
 ### Stress Points
 
@@ -302,6 +306,34 @@ Formulaic magic needs neither of these costs; the fatigue rule above applies onl
 
 - **Recovery time** shows how long it takes for **fatigue to drop one level** (e.g., from **incapacitated to severe**).  
 - **Penalties apply after spellcasting**, meaning a **heroic caster can push themselves into incapacity** while still successfully casting a spell.
+
+### Paradox
+
+- **Magic Theory** sets the size of the **paradox stress track**, same way Physique sets physical stress.  
+- Paradox stress is gained from **vulgar magic in a Rational Aura** (see [Rational aura](#rational-aura)) and from **failed Casting Tablet** use.  
+- Paradox **consequences** manifest as **Warping**: small, uncanny quirks bleeding from the mage into the mundane world (glowing eyes, a voice that echoes, plants wilting nearby, an unnatural fluency in a beast's tongue).  
+- Paradox stress and mild/moderate consequences recover following the **Aura level** tables above (faster in a Magic Aura, slower or not at all in a Rational Aura).
+
+#### Twilight
+
+A mage falls into **Twilight** when:
+
+- They are **Taken Out** by paradox stress, or  
+- They take a **Severe paradox consequence** while their Severe slot is already occupied.
+
+When this happens:
+
+1. The mage is **pulled out of the scene** into a personal Twilight vision — a symbolic, dreamlike confrontation with their own magic, narrated by the GM as a short solo scene.  
+2. To return, the mage must **resolve or overcome** whatever the vision confronts them with (often built from their own Aspects, Troubles, or the paradox consequence that triggered it).  
+3. Returning **clears all paradox stress and consequences**, but the mage gains one permanent **Warping Mark** — a minor supernatural quirk aspect (e.g. *Reptile Eyes*, *Cannot Lie*, *Speaks in Riddles*) the GM may compel or invoke like any other aspect.  
+4. Accumulating **three or more Warping Marks** pushes a mage visibly away from humanity, edging them toward the **Twilight Age** (see Vampire Ages, above) — a Storyteller call.
+
+### Indebted
+
+- **Resources** sets the size of the **indebted stress track** — for a magus this is almost always the **Covenant's Resources**, since magi rarely hold personal wealth; a **Companion** uses their **own personal Resource ability** instead, having no access to the Covenant's pool.  
+- Indebted stress is gained when a character leans on **favors, credit, or goodwill** under pressure: calling in a **Boon**, invoking a **Hook** (Poverty, Beholden, Contested Resources), borrowing **Vis** or coin beyond what they can repay, or bribing for help in a pinch.  
+- Indebted **consequences** represent strings attached to the debt — *Owes a Petty Favor* (mild), *Marked by a Creditor* (moderate), *Bound by Oath* (severe) — and **do not heal with rest**. They clear only when **repaid**: spending Resources successfully, performing a favor for the creditor, or surrendering a Boon or possession of matching value.  
+- Being **Taken Out** by indebted stress means the debt is **called in**: the GM narrates the creditor collecting — seizing goods, forcing an obligation, or leveraging the character publicly in the scene.
 
 ---
 
@@ -349,8 +381,8 @@ With rapier, floret sword, you have that option against light, medium sized weap
 
 ## Resources
 
-- **Magi and companions** can use **Covenant’s resources** instead of their own.  
-- Many magi **do not have a personal resource ability**.  
+- Magi live in a **communal society** — a magus **rarely has a personal Resource ability**, drawing instead on the **Covenant's Resources**.  
+- **Companions do not have access** to the Covenant's Resources; they must rely on their **own personal Resource ability** to purchase things.
 
 ### Purchasing Rules
 
@@ -564,6 +596,13 @@ Assign priority levels:
 - Most specialists have a **stunt** giving **+2 to their skill**.  
 - A **Good (+3) specialist** is considered **highly skilled**.
 
+### **Casting Tablet**
+- Allows casting a **known spell you do not personally know**, provided you have the **tablet** and the **required resources**.  
+- Casting is **harder than usual**, or carries a **greater risk**.
+
+**If the casting fails:**
+> Create a **Magical Mishap** or **Botched Casting** aspect/condition on the scene with one free invoke for the GM. In addition, the mage takes **1 point of paradox stress** (see [Paradox](#paradox)).
+
 ---
 
 ## **Hooks & Boons**
@@ -619,6 +658,12 @@ A Covenant may take **1 Boon per Hook**.
 - **Mikkel was eaten whole** by a **Faerie Dragon** while exploring. **He’s definitely dead… right?**  
 - Mikkel bought the land into name of his apprentice Giovanni to make it a legit barony. Once he disappeared, Giovanni became a valid baron of the land, delegating as much work as possible. He still signs judgments from serious crimes just to see fairness happening.
 
+### **Timeline**
+- **1450** – The Saga begins.
+- **1492** – Columbus discovers America.
+- **1517** – The Reformation begins.
+- **1453-1600** – Rise of the Ottoman Empire.
+
 ### **Structure & Magic Regio**
 - The **Covenant is entered** via **one door in the mundane manor**.  Mundane manor is where perfume is sold. Around it there are many houses processing flowers and perfume. Most of it run by a dangerous psychopath Grenouille who has a personal guard that is not protecting him, but protecting people from him. Average specialist with a hook psychopathic, gives him a magical virtue of supernatural sense of smell.
 - **Climbing the stairs** leads into the **Magical Regio**, where a **greater, more magnificent version of the manor** exists.  
@@ -663,7 +708,7 @@ A Covenant may take **1 Boon per Hook**.
 
 ## **Personnel**
 
-- <img src="./img/image-20250328184331494.png" style="float: right">**Perfume Maker’s Help**  
+- **Perfume Maker’s Help**  
 
 - **Blacksmith**  
 - **Carpenter**  
