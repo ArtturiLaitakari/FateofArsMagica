@@ -30,10 +30,9 @@ A rules-light version is easier for the game master so they can focus on the sto
 
 **Extra details**
 
-- **Gift**, normal or different
+- **Gift**, normal or different — every magus radiates an unnerving supernatural aura. Mundanes who don't already know and accept the character react with instinctive unease, distrust, or fear; the GM can compel this freely in social scenes with non-magi (see [The Gift](./VirtuesAndFlaws.md#social-status)). A **different (Blatant)** Gift is stronger: even other magi sense it, marking the character as overtly, obviously supernatural.
 
 - **Bodyguard**: who is your companion.
-- **Nature**: Leader, Negotiator, Explorer or Builder.
 
 ### Step 2: Details
 
@@ -51,26 +50,26 @@ Character gets:
 
 ### Skill List
 
-- Alertness
-- Burglary (Lock picking, Forgery, Cutpurse, Traps, Security)
-- Contacts (Merchants, Nobility, Church, Underworld, Order of Hermes)
-- Fight (Light, Martial, Heavy, Bows, Thrown, Firearms)
-- Influence (Persuasion, Deception, Leadership, Negotiation, Intimidation)
-- Investigate (Deduction, Scrutiny, Observation, Interrogation, Research)
-- Lore (1 lore per skill level: Church, Hermetic, Faerie, Infernal, Twilight)
-- Languages (1 per language)
-- Magic Theory (Parma Magica, Vis Lore, Finesse, Regio Lore, Hermetic Research)
-- Medicine (First aid, Surgery, Infectious, Herbal medicine)
-- Physique (Brawling, Athletics, Climbing, Endurance, Swimming)
-- Resources (useless to mages)
-- Travel (Ride, Sailing, Cartography, Navigating)
-- Stealth (Sneak, Hide, Disguise, Shadowing, Infiltration)
-- Survival (Foraging, Tracking, Way finding, Sheltercraft, Weathercraft)
-- Will (Resolve, Composure, Fortitude, Focus)
+- **Alertness** – Notice details, react fast, avoid being taken by surprise.
+- **Burglary** (Lock picking, Forgery, Cutpurse, Traps, Security) – Bypass locks and security, forge documents, break in unseen.
+- **Contacts** (Merchants, Nobility, Church, Underworld, Order of Hermes) – Know the right people, call in favors, gather information through your network.
+- **Fight** (Light, Martial, Heavy, Bows, Thrown, Firearms) – Hurt people up close or at range, and avoid getting hurt back.
+- **Influence** (Persuasion, Deception, Leadership, Negotiation, Intimidation) – Get people to do, believe, or feel what you want.
+- **Investigate** (Deduction, Scrutiny, Observation, Interrogation, Research) – Find clues and draw the right conclusions from them.
+- **Lore** (1 lore per skill level: Church, Hermetic, Faerie, Infernal, Twilight) – Recall accumulated, often esoteric, knowledge.
+- **Languages** (1 per language) – Speak, read, and understand a specific tongue.
+- **Magic Theory** (Parma Magica, Vis Lore, Finesse, Regio Lore, Hermetic Research) – Understand and reason about magic itself, as a Hermetic scholar does.
+- **Medicine** (First aid, Surgery, Infectious, Herbal medicine) – Diagnose and treat injury and disease.
+- **Physique** (Brawling, Athletics, Climbing, Endurance, Swimming) – Raw physical toughness, strength, and endurance.
+- **Resources** (useless to mages) – Wealth and material means to acquire things.
+- **Travel** (Ride, Sailing, Cartography, Navigating) – Move yourself and others across distance and terrain.
+- **Stealth** (Sneak, Hide, Disguise, Shadowing, Infiltration) – Move unseen and unheard, or pass as someone else.
+- **Survival** (Foraging, Tracking, Way finding, Sheltercraft, Weathercraft) – Live off, and read the signs of, the wilderness.
+- **Will** (Resolve, Composure, Endurance, Focus, Sensitivity) – Mental fortitude: resist fear, coercion, and manipulation, and stay focused under pressure.
 
 ### How Sub-Skills Work
 
-Every skill listed above has sub-skills. A sub-skill is a narrow specialty inside a broad skill — for example, **Ranged** or **Melee** inside **Fight**, or **Deception** or **Leadership** inside **Influence**. **Will**'s sub-skills work the same way, covering mental combat the way Physique's cover physical combat: **Resolve** (resisting fear and coercion), **Composure** (holding up under interrogation or social pressure), **Fortitude** (enduring despair, pain, or exhaustion), and **Focus** (staying steady against magical or mental disruption).
+Every skill listed above has sub-skills. A sub-skill is a narrow specialty inside a broad skill — for example, **Ranged** or **Melee** inside **Fight**, or **Deception** or **Leadership** inside **Influence**. **Will**'s sub-skills work the same way, covering mental combat the way Physique's cover physical combat: **Resolve** (resisting fear and coercion), **Composure** (holding up under interrogation or social pressure), **Endurance** (enduring despair, pain, or exhaustion), **Focus** (staying steady against magical or mental disruption), and **Sensitivity** (a supernatural early-warning instinct — the hair on your neck standing up, a gut-deep wrongness — for sensing the supernatural nearby).
 
 - **Number of sub-skills = the skill's numeric rating.** A skill at **Great (+4)** gives **4 sub-skills**, all rated **Great (+4)**. A skill at **Good (+3)** gives **3 sub-skills** at **Good (+3)**, and so on down to **Average (+1)**, which gives **1 sub-skill** at **Average (+1)**.
 - A **Mediocre (+0)** skill has no rating to spend, so it gets **no sub-skills**.
@@ -109,7 +108,7 @@ Each house has a default stunt, but with a good explanation, a character may tak
 | **Tytalus**        | Combat stunt                                                 |
 | **Verditius**      | Verditius magic +2 crafting magical items                    |
 
-Magus starts with a **refresh of 3**. They can learn new stunts after their first milestone.
+Magus starts with a **refresh of 3**. They can learn new stunts after their first milestone (see [Advancement](#advancement), below).
 
 ### Magical Arts & Study Points
 
@@ -157,6 +156,7 @@ So divide Ars magica level by 5 to get Fate of Ars magica level. Level below fiv
   - **Three minor** virtues or flaws (worth 1 point each), OR  
   - **Two virtues and two flaws** of equal value.  
 - Or take One major virtue Flaw pair, and one minor virtue flaw pair.
+- Character has to has as many Flaws as Virtues point vice.
 - **Flaws** can give fate points.  
 - **Virtues** might **cost** fate points.  
 - For bonuses, use **+2 or +1**, as appropriate.
@@ -164,14 +164,15 @@ So divide Ars magica level by 5 to get Fate of Ars magica level. Level below fiv
 ### Companion
 
 - Create a character with the same skill tree.  
-- Choose **3 flaws** and either **3 virtues or 3 stunts**.
+- Choose **3 flaws** and either **3 virtues or 3 stunts**.  
+- Starts with a **refresh of 3**.
 
 ### Grogs
 
 - Grogs use **6 approaches** with the following ratings:  
   - **+2, +1, 0, 0, -1, -2**  
 - They have a **high concept** and **trouble aspects**.  
-- Start with **1 fate point**.  
+- Starts with a **refresh of 1**, giving **1 fate point** to start.  
 - Use **Fudge Accelerated** mechanics.
 
 ---
@@ -244,6 +245,15 @@ To cast the same spell **without losing a fatigue level**, pay one of these cost
 
 Formulaic magic needs neither of these costs; the fatigue rule above applies only to spontaneous casting.
 
+### Botch
+
+A cast can fail badly enough to become a **critical failure** instead of an ordinary one. This happens when either:
+
+- The **4DF roll itself comes up all minus** (a natural **-4**, before adding Technique + Form), or
+- The final result **misses the spell level by 4 or more**.
+
+On a Botch, the caster doesn't just fail and lose a fatigue level as usual — the GM also creates a **Magical Mishap** or **Botched Casting** aspect/condition on the scene with a free invoke, the same complication a failed [Casting Tablet](#casting-tablet) cast can cause. If the spell was drawing on a Rational Aura or another source of Paradox, this also inflicts paradox stress (or a direct Warping consequence) as normal.
+
 ---
 
 ## Circumstantial Penalties
@@ -313,7 +323,8 @@ A character sheet has **four stress tracks**:
 
 - **Magic Theory** sets the size of the **paradox stress track**, same way Physique sets physical stress.  
 - Paradox stress is gained from **vulgar magic in a Rational Aura** (see [Rational aura](#rational-aura)) and from **failed Casting Tablet** use.  
-- Paradox **consequences** manifest as **Warping**: small, uncanny quirks bleeding from the mage into the mundane world (glowing eyes, a voice that echoes, plants wilting nearby, an unnatural fluency in a beast's tongue).  
+- Paradox **consequences** manifest as **Warping**: small, uncanny quirks bleeding from the mage into the mundane world (glowing eyes, a voice that echoes, plants wilting nearby, an unnatural fluency in a beast's tongue). A **full paradox stress track** overflows into a Warping consequence exactly like any other stress track.  
+- Some magical exposure is corrosive enough to **inflict a Warping consequence directly**, skipping the stress track entirely — long exposure to a strong Aura, a faerie or infernal taint, a cursed item, or a botched ritual are all fair game, at the GM's discretion.  
 - Paradox stress and mild/moderate consequences recover following the **Aura level** tables above (faster in a Magic Aura, slower or not at all in a Rational Aura).
 
 #### Twilight
@@ -328,13 +339,14 @@ When this happens:
 1. The mage is **pulled out of the scene** into a personal Twilight vision — a symbolic, dreamlike confrontation with their own magic, narrated by the GM as a short solo scene.  
 2. To return, the mage must **resolve or overcome** whatever the vision confronts them with (often built from their own Aspects, Troubles, or the paradox consequence that triggered it).  
 3. Returning **clears all paradox stress and consequences**, but the mage gains one permanent **Warping Mark** — a minor supernatural quirk aspect (e.g. *Reptile Eyes*, *Cannot Lie*, *Speaks in Riddles*) the GM may compel or invoke like any other aspect.  
-4. Accumulating **three or more Warping Marks** pushes a mage visibly away from humanity, edging them toward the **Twilight Age** (see Vampire Ages, above) — a Storyteller call.
+4. Accumulating **three or more Warping Marks** pushes a mage visibly away from humanity — a Storyteller call, separate from the age-based **Scale** tiers below.
 
 ### Indebted
 
 - **Resources** sets the size of the **indebted stress track** — for a magus this is almost always the **Covenant's Resources**, since magi rarely hold personal wealth; a **Companion** uses their **own personal Resource ability** instead, having no access to the Covenant's pool.  
 - Indebted stress is gained when a character leans on **favors, credit, or goodwill** under pressure: calling in a **Boon**, invoking a **Hook** (Poverty, Beholden, Contested Resources), borrowing **Vis** or coin beyond what they can repay, or bribing for help in a pinch.  
-- Indebted **consequences** represent strings attached to the debt — *Owes a Petty Favor* (mild), *Marked by a Creditor* (moderate), *Bound by Oath* (severe) — and **do not heal with rest**. They clear only when **repaid**: spending Resources successfully, performing a favor for the creditor, or surrendering a Boon or possession of matching value.  
+- Unlike other stress, **indebted stress does not clear at the end of a scene** — a debt doesn't go away just because the scene's over. It only clears when **repaid**: a story favor performed for the creditor, or Resources spent to settle the account. If it can't be repaid before it's needed again, it overflows into a consequence instead.  
+- Indebted **consequences** represent strings attached to the debt — *Owes a Petty Favor* (mild), *Marked by a Creditor* (moderate), *Bound by Oath* (severe) — and **do not heal with rest** either. They clear only when **repaid**: spending Resources successfully, performing a favor for the creditor, or surrendering a Boon or possession of matching value.  
 - Being **Taken Out** by indebted stress means the debt is **called in**: the GM narrates the creditor collecting — seizing goods, forcing an obligation, or leveraging the character publicly in the scene.
 
 ---
@@ -409,6 +421,47 @@ With rapier, floret sword, you have that option against light, medium sized weap
 
 ---
 
+## Advancement
+
+Mundane advancement — Skills, stunts, refresh, and aspects — follows **Fate Core milestones**, for magi, companions, and grogs alike. A magus's **Arts** advance on a separate track (see [Study Progress per Season](#study-progress-per-season), below): a milestone never grants Art XP, and a season of study never grants a milestone.
+
+### Minor Milestone
+
+Occurs at the end of a **session or mission**. Pick **one**:
+
+- Swap the ranks of two skills, or replace one Average (+1) skill with one not currently on the sheet.
+- Swap one stunt for another.
+- Buy a new stunt, if **Refresh** allows (never drop below 1 Refresh).
+- Rename one aspect that isn't the High Concept.
+- Rename a **moderate consequence** to start it healing.
+
+### Significant Milestone
+
+Occurs at the end of an **adventure or scenario** — roughly every 2–3 sessions, or for a magus who isn't adventuring, at the end of a **season** of study. Grants everything from a minor milestone, plus:
+
+- **One additional skill point**: buy a new skill at Average (+1), or raise an existing skill by one step. This is **purely mundane Skills** — it never applies to **Magical Arts**, which advance exclusively through the [Study Progress per Season](#study-progress-per-season) laboratory rules, no exceptions.
+- Rename a **severe consequence** to start it healing.
+
+#### Skill Tree Shape
+
+Unlike Fate Core's skill columns (which only require *at least as many* skills at the rank below), the Skill Tree's shape (1 Great, 2 Good, 3 Fair, 4 Average) is a **strict staircase**: each rank must have **at least one more** skill than the rank above it. Raising a skill's rank pulls it out of its old row, so the row it left often needs backfilling too — and since new skills can only be bought fresh at **Average**, the correction cascades all the way to the bottom.
+
+- **Raising a skill to Fair** empties one Average slot, dropping Average to 3 — one short of Fair's new total of 4. **Buy 2 new Average skills** to restore the staircase.
+- **Raising a skill to Good** empties one Fair slot, dropping Fair to 2 — one short of Good's new total of 3. Restoring Fair means promoting **2 Average skills up to Fair**, which in turn empties those Average slots — so **buy 3 new Average skills** underneath to restore the whole staircase.
+
+As always, a skill point can instead be **banked** across milestones until there's enough saved up to cover a raise in one go.
+
+### Major Milestone
+
+Occurs at a **major turning point** in the saga — the end of a story arc, the death of a major villain, or another change that shakes up the whole game. Grants everything from a significant and minor milestone, plus:
+
+- Rename an **extreme consequence**, freeing it up to be taken again later.
+- **+1 Refresh** — spend it immediately on a new stunt, or keep it for more fate points at the start of a session.
+- Advance a skill **past the saga's current skill cap**, raising the cap for everyone. Starting characters cap out at **Great (+4)** (see Step 3: Skill Tree); this is the first time anyone can go higher.
+- Rename the **High Concept**.
+
+---
+
 ## Magic & Study
 
 - **Mages are academics**, always studying and researching magic.  
@@ -448,9 +501,10 @@ Learning arts and spells should go hand in hand, you cannot keep on studying art
 ## Adventuring Magi
 
 - A **party** consists of **one magus** and **several companions**.  
+- A magus can only afford **one or two days of adventuring per season** before it cuts into that season's study benefits (see [Study Progress per Season](#study-progress-per-season)) — that's why, for any given session/mission, **only one player plays their magus**, while the rest play their **companions** instead.  
 - **Each session/mission**, one player **plays their magus**, while others play their **favorite companion**.  
-- **Maguses can only afford one or two days of adventuring per season**.  
 - **Adventuring is required to gain new skills.**  
+- Besides their own character, players usually bring along **about one grog per player** for protection.  
 
 # Longevity Potion
 
@@ -460,7 +514,7 @@ Learning arts and spells should go hand in hand, you cannot keep on studying art
 ### <img src="./img/image-20250328184527420.png" style="float: right" width="300"> Potion Creation
 
 1. **Calculate skill total:**  
-   - **Magic Theory + Magic Aura + Wealth Modifier**  
+   - **Magic Theory + Magic Aura + Wealth Modifier (covenant resources)**  
    - **Wealth Modifiers:**  
      - **Wealthy**: +1  
      - **Poor**: -1  
@@ -755,6 +809,7 @@ From 1600 onward, cities and universities start to have a new aura
 
 ### Rational aura 
 
+- **Spreads gradually, well before 1600**: around **1200**, it's mostly confined to **universities** (Paris, Bologna, Oxford) — isolated pockets of scholastic reason. By **1400**, it's established in a **large part of cities** generally, not just academic institutions. 1600 is simply the point where it becomes the dominant, near-universal aura of urban life.
 - Minus to magical casting
 - Casting obviously supernatural spell causes a mage to have paradox stress damage
   - Character gets stress equal to spell level cast.

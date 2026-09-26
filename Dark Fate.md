@@ -6,9 +6,9 @@ Dark Fate is a modern-day, GM-facing variant of the same ruleset as [Fate of Ars
 
 ## Character Creation Differences
 
-**Step 1: Aspects** — replace *House* with **Trouble**, and add a **Bond** aspect instead of *Bodyguard*. *Nature* keeps the same four options (Leader, Negotiator, Explorer, Builder).
+**Step 1: Aspects** — replace *House* with **Trouble**, and add a **Bond** aspect instead of *Bodyguard*.
 
-**Step 2: Details** — Name, Age, Gender, Profession, Colors, Nationality, Nature, Totem, Background.
+**Step 2: Details** — Name, Age, Gender, Profession, Colors, Nationality, Totem, Background.
 
 **Step 3: Skill Tree** — instead of ranking every skill, the character picks **10 skills** to be trained in; every other skill sits at **Poor**, not Mediocre.
 
