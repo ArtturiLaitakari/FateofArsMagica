@@ -198,3 +198,18 @@ Should baron wait for a month, he becomes an outlaw and is freely killable, also
 
 ### BACKGROUND  
 Once a celebrated Venetian noble and Toreador artist, Baron Vittoria Della Rosé lost his title and lands to a rival centuries ago. Now, he haunts the shadows of Cagne sur Mer, tormenting its people out of spite. A master manipulator and deadly predator, he revels in fine arts, exquisite wines, and the slow destruction of his enemies. Though his beauty is legendary, behind his human mask lurks a monstrous Red Court fiend, eager to feast on those who cross him.  
+
+## Story Hooks
+
+Short Grimm-tale seeds: someone arrives at the covenant asking for help, and the old story is the plot underneath.
+
+- **Hansel and Gretel**: A miller begs the covenant to find his two children, missing three nights in the deep woods near a cottage villagers say "smells of gingerbread." In the old tale, a witch lures starving children in with sweets to fatten and eat them — the children only escape by shoving her into her own oven.
+
+- **Cinderella**: A servant girl slips into the covenant asking for a favor, not gold: her stepmother works her half to death and won't let her attend the Baron's ball, where a suitor means to choose a bride by whoever's foot fits a lost golden slipper. In the tale, magic gets her there and back three nights running, until she flees at midnight and leaves the slipper behind.
+
+- **Snow White**: A trembling huntsman seeks the covenant's protection, having been ordered to kill his baroness's stepdaughter and bring back her heart as proof — he let the girl run instead, and now fears the baroness's magic mirror will expose the lie. In the tale, the girl survives with seven dwarfs while the jealous queen tries again and again, finally succeeding with a poisoned apple.
+
+- **Rumpelstiltskin**: A miller's daughter, now a terrified bride-to-be, asks the covenant to help her guess a name before her wedding night. She once boasted she could spin straw into gold; a strange little man did it for her twice for trinkets, and a third time for her firstborn child — unless she learns his true name in three days.
+
+- **Sleeping Beauty**: A chamberlain rides through the night begging for aid: the young Countess pricked her finger on a spindle exactly as an uninvited fae godmother foretold at her christening, and the whole household has fallen into an unnatural sleep behind a wall of thorns that regrows as fast as it's cut. In the tale, a hundred years pass before someone finally cuts through and wakes her.
+
