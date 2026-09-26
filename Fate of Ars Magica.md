@@ -1,5 +1,7 @@
 # Fate of Ars Magica
 
+*Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Ars Magica and Mythic Europe are trademarks of Trident, Inc., and are used with permission. This document adapts Ars Magica 5th Edition into Fate terms; it is not the original text and is itself released under CC-BY-SA 4.0. See [LICENSE.md](./LICENSE.md) for the full Ars Magica Open License summary.*
+
 ![image-20250328180100465](./img/image-20250328180100465.png)![image-20250328180155199](./img/image-20250328180155199.png)![image-20250328180224090](./img/image-20250328180224090.png)
 
 
@@ -293,14 +295,17 @@ A character sheet has **four stress tracks**:
 
 ### Stress Points
 
-| Level              | Stress Points                 |
-| ------------------ | ----------------------------- |
-| **Terrible**       | 0                             |
-| **Mediocre, Poor** | 00                            |
-| **Average, Fair**  | 000                           |
-| **Good, Great**    | 0000                          |
-| **Superb+**        | 0000 + Extra mild consequence |
+| Level                          | Stress Boxes |
+| ------------------------------ | ------------ |
+| **Terrible**                   | 0            |
+| **Mediocre (+0)**               | 3            |
+| **Average (+1), Fair (+2)**     | 4            |
+| **Good (+3)**                   | 5            |
+| **Great (+4), Superb (+5)**     | 6            |
+| **Fantastic (+6), Epic (+7)**   | 7            |
+| **Legendary (+8), Fabled (+9)** | 8            |
 
+- **Superb (+5) and above** also grant an **extra mild consequence** slot.
 - **One stress point absorbs one damage point.**  
 
 ### Fatigue
@@ -321,7 +326,7 @@ A character sheet has **four stress tracks**:
 
 ### Paradox
 
-- **Magic Theory** sets the size of the **paradox stress track**, same way Physique sets physical stress.  
+- **Magic Theory** sets the size of the **paradox stress track** for a magus, same way Physique sets physical stress. Mundanes have little natural resistance to magic — if a Muto Corpus effect (or the like) touches them, Warping just happens — but a flat baseline still applies so they aren't paper-thin: a **Grog's** track is a flat **2 boxes**, a **Companion's** is a flat **4 boxes**, regardless of any Magic Theory they may have picked up.  
 - Paradox stress is gained from **vulgar magic in a Rational Aura** (see [Rational aura](#rational-aura)) and from **failed Casting Tablet** use.  
 - Paradox **consequences** manifest as **Warping**: small, uncanny quirks bleeding from the mage into the mundane world (glowing eyes, a voice that echoes, plants wilting nearby, an unnatural fluency in a beast's tongue). A **full paradox stress track** overflows into a Warping consequence exactly like any other stress track.  
 - Some magical exposure is corrosive enough to **inflict a Warping consequence directly**, skipping the stress track entirely — long exposure to a strong Aura, a faerie or infernal taint, a cursed item, or a botched ritual are all fair game, at the GM's discretion.  
