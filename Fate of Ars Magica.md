@@ -169,6 +169,36 @@ So divide Ars magica level by 5 to get Fate of Ars magica level. Level below fiv
 - Choose **3 flaws** and either **3 virtues or 3 stunts**.  
 - Starts with a **refresh of 3**.
 
+### Building Your Own Stunts
+
+Most stunts follow one of three basic formulas:
+
+- **Bonus in a narrow situation** — +2 to a skill (Overcome, Create an Advantage, Attack, or Defend) when a specific, narrow circumstance applies. *(e.g. "get +2 when calming an animal")*
+- **New use of a skill** — use one skill to do something a different skill would normally cover, in a specific narrow way. *(e.g. "use Physique instead of Fight with a heavy object")*
+- **Ignore a cost or limit** — once per session (or under a specific trigger), ignore a consequence, cost, or the usual limits of time/distance/plausibility. *(e.g. "once per session, ignore the usual limits of distance to be in the right place")*
+
+For more variety than a flat +2, the [Fate System Toolkit](https://fate-srd.com/fate-system-toolkit/stunts) offers four looser templates:
+
+- **Flexible Stunts** — don't tie the stunt to a skill at all; hang it off an **aspect**, a piece of **gear**, or a **stress track** instead. *(e.g. spend a point of stress to fuel an effect, or gain a benefit whenever a specific aspect is invoked/compelled)*
+- **Triggered Effects** — "When [condition], roll [Skill] against a fixed opposition. Success: [effect]. Success with style: [bigger effect]." Leave failure/tie to the GM — these tend to be powerful, so the downside should match.
+- **Broad Stunts** — trade one +2 for **+1 to two or three** narrow actions instead, possibly spanning multiple skills. Watch for overlap between broad stunts.
+- **Combined Stunts** — bundle two stunts' worth of effect into one big effect, and charge **2 Refresh** for it instead of 1.
+
+### Example Companion Stunts
+
+- **Blade Runes**: Spend a stress point to draw a magical rune on a weapon (max 1 point per weapon size). The rune gives the weapon +2 to one of four actions for one use, then disappears. Drawing a rune takes a minute.
+- **Heavy Object Swing**: Use Physique instead of Fight whenever you use a heavy object as a melee weapon.
+- **Heavy Object Throw**: Use Physique instead of Shoot to attack targets one zone away with a heavy object.
+- **Animal Whisperer**: Get +2 when calming an animal.
+- **Defender**: Get +2 when defending another in melee.
+- **Skin Changer**: Put on an animal skin and gain that animal's abilities and weaknesses. Keep your intellect as long as you don't stay in that form too long. Creating a new skin takes a season.
+- **Experienced Ranger**: Get +2 when attacking with a bow after aiming for 1 turn. Get +2 when tracking with Survival.
+- **Right Place, Right Time**: Once per session, you may announce your presence in the perfect place to help someone in need, ignoring the usual limits of time, distance, or plausibility. If the GM grants you a boost and takes advantage of the situation instead, it doesn't count against your once-per-session use.
+
+These aren't just for Companions — a **magus** can pick up any of these too, at a **Minor Milestone**, by spending a point of **Refresh** (see [Advancement](#advancement), below).
+
+Grogs don't take stunts — they use Fate Accelerated approaches instead (see [Grogs](#grogs), below).
+
 ### Grogs
 
 - Grogs use **6 approaches** with the following ratings:  
@@ -295,15 +325,15 @@ A character sheet has **four stress tracks**:
 
 ### Stress Points
 
-| Level                          | Stress Boxes |
-| ------------------------------ | ------------ |
-| **Terrible**                   | 0            |
-| **Mediocre (+0)**               | 3            |
-| **Average (+1), Fair (+2)**     | 4            |
-| **Good (+3)**                   | 5            |
-| **Great (+4), Superb (+5)**     | 6            |
-| **Fantastic (+6), Epic (+7)**   | 7            |
-| **Legendary (+8), Fabled (+9)** | 8            |
+| Level                             | Stress Boxes |
+| ---------------------------------- | ------------ |
+| **Terrible**                       | 0            |
+| **Mediocre (+0)**                   | 3            |
+| **Average (+1), Fair (+2)**         | 4            |
+| **Good (+3), Great (+4)**           | 5            |
+| **Superb (+5), Fantastic (+6)**     | 6            |
+| **Epic (+7), Legendary (+8)**       | 7            |
+| **Fabled (+9)**                     | 8            |
 
 - **Superb (+5) and above** also grant an **extra mild consequence** slot.
 - **One stress point absorbs one damage point.**  
