@@ -21,6 +21,8 @@ A rules-light version is easier for the game master so they can focus on the sto
 2. Book of Fate Core, or SRD
     [Fate SRD](https://fate-srd.com/)
 
+For sample adventures, NPC stat blocks, and other GM-facing material, see [FateOfStoryteller.md](./FateOfStoryteller.md).
+
 ## Character Creation  <img src="./img/image-20250328180538533.png" alt="characters" width="300" style="float: right">
 
 ### Step 1: Choose Aspects
@@ -210,6 +212,8 @@ Grogs don't take stunts — they use Fate Accelerated approaches instead (see [G
 ---
 
 ## System Conversion
+
+For the underlying Ars Magica spell level math (Range, Duration, Targets, and other Magnitude modifiers) that these converted levels are built from, see [MagicSystem.md](./MagicSystem.md) and [SpellGuidelines.md](./SpellGuidelines.md).
 
 - **5 Ars Magica spell levels** = **1 spell level** in **Fate of Ars Magica (FOAM)**.  
 - Example: *Ball of Abysmal Flame* (level 35) = **level 7** in FOAM.  
@@ -885,6 +889,8 @@ From 1600 onward, cities and universities start to have a new aura
 
 <img src="./img/darkfate-tremere-cover.png" alt="Tremere" width="300" style="float: right">
 
+For ready-to-use vampire NPC stat blocks, see [fateMonsterManual.md](./fateMonsterManual.md).
+
 ## Tremere
 
 The Tremere began as House Tremere, mages of the Order of Hermes named for their leader and founder, Tremere. At the end of the first millennium, the members of House Tremere realized the Hermetic arts were failing and found its immortality potions no longer working. Facing the possibility of losing everything, Tremere ordered research into alternate methods of sustaining their lives. House Tremere undertook numerous experiments, but it was Goratrix who devised a solution in his investigation of vampires.
@@ -986,6 +992,8 @@ You can see perfectly in the dark and are immune to any potential effect of norm
 #### Pack Influence
 
 You hold sway over other local Red Court vampires. Once per session, you can declare that you have convinced your local pack to lend you assistance: a minor NPC to help in a scene, a free success at an overcome roll, or an advantage with two invokes. If the Red Court is particularly powerful or organized in your game, you may treat this stunt as the White Court do, using Family Favors as a model.
+
+For more Discipline-inspired vampiric stunts (Auspex, Dominate, Fortitude, Presence, Obfuscate, Potence), see [vampires.md](./vampires.md).
 
 ---
 
